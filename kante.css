@@ -26,6 +26,11 @@ button{
   
 
 }
+#ovrhold{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
 
 #hold{
   height: 470px;
